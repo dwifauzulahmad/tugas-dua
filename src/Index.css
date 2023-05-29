@@ -1,0 +1,11 @@
+.css{
+    background-color: white;
+}
+body{
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
